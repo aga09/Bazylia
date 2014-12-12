@@ -1,0 +1,21 @@
+Data: 12.12.2014
+Menu:
+Przystawki:
+Kasza
+Szpinak
+Makaron
+Zupy:
+Rosol
+Pomidorowa
+Migdalowa
+Danie glowne:
+Homar
+Schabowy
+Nalesniki
+Ser Smazony
+Watrobka
+Desery:
+Tiramisu
+Salatka Owocowa
+Placki z rabarbarem
+Szarlotka
